@@ -1,0 +1,19 @@
+<body>
+<form class="rejestracja">
+ <div class="regist">
+  <label>Nazwa</label>
+  <input class="reg" type="text" placeholder="Twój login">
+ </div>
+ <div>
+   <label>E-mail</label>
+  <input class="reg" type="text" placeholder="jakub@email.com">
+ </div>
+ <div>
+   <label>Hasło</label>
+  <input class="reg" type="text" placeholder="Twoje hasło">
+</div>
+<div>
+ </div>
+  <input class="submit" type="submit" value="Zarejestruj">
+</form>
+</body>
